@@ -1,4 +1,4 @@
 ---
 title: About Me
 ---
-This page is a personla bio. To be completed later.
+This page is a personal bio. To be completed later.
