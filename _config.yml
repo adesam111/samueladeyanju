@@ -2,4 +2,7 @@ theme: minima
 
 
 header_pages:
+  - welcome-to-mywebpage.md
   - about.md
+  - academic-cv.md
+
