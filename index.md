@@ -7,3 +7,5 @@ title: Welcome to my webpage
 _This is italicized_
 
 This is a sentence
+
+![Ocean](images/
