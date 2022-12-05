@@ -1,5 +1,5 @@
 ---
-title: Welcome to my webpage
+title: <Welcome to my webpage>
 ---
 
 ![Samuel](images/samuel.jpg)
