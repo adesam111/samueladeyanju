@@ -1,9 +1,6 @@
+
 ---
-title: <Welcome to my webpage>
----
-  
----
-title: About Me
+title: Welcome to my page
 ---  
 ![Samuel](images/samuel.jpg)
 
