@@ -3,5 +3,5 @@ theme: minima
 
 header_pages:
   - about.md
-  - cv.md
-
+  - cv.md  
+  - publications.md
