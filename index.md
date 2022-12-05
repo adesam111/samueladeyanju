@@ -1,7 +1,7 @@
-
 ---
 title: Welcome to my page
 ---  
+
 ![Samuel](images/samuel.jpg)
 
 **Samuel Adeyanju**
