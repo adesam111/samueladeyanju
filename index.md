@@ -4,11 +4,12 @@ title: Welcome to my webpage
 
 ![Samuel](images/samuel.jpg)
 
-**This is some bolded text**
+**Samuel Adeyanju**
 
-_This is italicized_
+_PhD Student
+University of British Columbia, Canada_
 
-This is a sentence
+
 
 
 
