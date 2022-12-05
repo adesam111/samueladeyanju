@@ -2,7 +2,9 @@
 title: <Welcome to my webpage>
 ---
   
-  
+---
+title: About Me
+---  
 ![Samuel](images/samuel.jpg)
 
 **Samuel Adeyanju**
