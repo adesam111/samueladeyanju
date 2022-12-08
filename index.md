@@ -7,7 +7,9 @@ title: Welcome to my page
 <div align="center"> 
   
 # Samuel Adeyanju
+  </div>
 
+<div align="center"> 
 ***PhD Student, University of British Columbia, Canada*** 
   
 
