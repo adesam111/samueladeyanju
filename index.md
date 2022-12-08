@@ -17,7 +17,7 @@ title: Welcome to my page
 
 
 
-<h1>I am a social scientist studying the social, economic, and institutional dynamics of natural resource management in West Africa.</h1>
+<h4>I am a social scientist studying the social, economic, and institutional dynamics of natural resource management in West Africa.</h4>
 </div>
 
 
