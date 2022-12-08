@@ -11,13 +11,13 @@ title: Welcome to my page
 
 <div align="center"> 
   
- PhD Student, University of British Columbia, Canada 
+ <h2>PhD Student, University of British Columbia, Canada</h2> 
   
-  </div>
+  
 
 
 
-### I am a social scientist studying the social, economic, and institutional dynamics of natural resource management in West Africa.
-
+<h1>I am a social scientist studying the social, economic, and institutional dynamics of natural resource management in West Africa.</h1>
+</div>
 
 
