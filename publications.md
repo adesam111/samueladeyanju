@@ -16,7 +16,7 @@ title: Publications
   
 5. Adeyanju S., Mogaji E., Olusola J., Oyinlola M. (2020). Factors Influencing Students’ Choice of a Federal University: A Case Study of a Nigerian Federal University. In: Mogaji E., Maringe F., Ebo Hinson R. (eds) Higher Education Marketing in Africa. (pp 135-163). Palgrave Macmillan, Cham. Link.
   
- # Research-Based Op-Eds
+# Research-Based Op-Eds
   
 6. Adeyanju, S., O'connor, A., (2022) Replacing short-term projects with long-term processes: Lessons learned from CBNRM in Ghana and Zambia. Forest News. Link.
   
