@@ -13,9 +13,10 @@ title: Welcome to my page
   
 ***PhD Student, University of British Columbia, Canada*** 
   
+  </div>
+
 
 ### Samuel Adeyanju is a social scientist studying the social, economic, and institutional dynamics of natural resource management in West Africa.
 
-</div>
 
 
