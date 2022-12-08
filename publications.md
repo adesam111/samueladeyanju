@@ -1,4 +1,6 @@
-title: <Publications>
+---
+title: Publications
+---                     
   
 # Peer-Reviewed Journals, Book chapters & Conference Paper
 
