@@ -4,12 +4,15 @@ title: Welcome to my page
 
 ![Samuel](images/samuel.jpg)
 
-**Samuel Adeyanju**
+<div align="center"> 
+  
+# Samuel Adeyanju
 
-_PhD Student
-University of British Columbia, Canada_
+***PhD Student, University of British Columbia, Canada*** 
+  
 
+### Samuel Adeyanju is a social scientist studying the social, economic, and institutional dynamics of natural resource management in West Africa.
 
-
+</div>
 
 
