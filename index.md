@@ -6,7 +6,7 @@ title: Welcome to my page
 
 <div align="center"> 
   
- Samuel Adeyanju
+ <h1>Samuel Adeyanju</h1>
   </div>
 
 <div align="center"> 
