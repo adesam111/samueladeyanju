@@ -15,7 +15,7 @@ title: Welcome to my page
  <h2>PhD Student, University of British Columbia, Canada</h2> 
   
   </font>
-  <samuel.adeyanju@ubc.ca>
+ [samuel.adeyanju@ubc.ca](samuel.adeyanju@ubc.ca)
 
 
 <font color="#52BE80">
