@@ -2,7 +2,7 @@
 title: About Me
 ---
 
-![Samuel](images/samuel2.jpg)
+![Samuel](images/samuel3.jpeg)
 
 Hi, my name is **Samuel Adeyanju**. I am a PhD student in the Faculty of  Forestry and a Four-Year Doctoral Fellow at the University of British Columbia (UBC), Canada. My PhD work is supervised by Dr. Terry Sunderland. I specialize in the political ecology of natural resource management in Africa. My doctoral research investigates the impact of livelihood intervention strategies on rural communities participating in community based natural resources management programs in Ghana. Prior to starting my PhD, I interned at the United Nations Food and Agriculture Organization HQ in Rome, Italy.
 
