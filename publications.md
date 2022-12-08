@@ -18,7 +18,7 @@ title: Publications
   
 # Research-Based Op-Eds
   
-6. <a href="https://forestsnews.cifor.org/76005/replacing-short-term-projects-with-long-term-processes?fnl=" target="_blank">Adeyanju, S., O'connor, A., (2022) Replacing short-term projects with long-term processes: Lessons learned from CBNRM in Ghana and Zambia. Forest News.</a>
+6. <a href="https://forestsnews.cifor.org/76005/replacing-short-term-projects-with-long-term-processes?fnl=" target="_blank">Adeyanju, S., O'connor, A., (2022) Replacing short-term projects with long-term processes: Lessons learned from CBNRM in Ghana and Zambia. *Forest News*.</a>
   
 # Preprints
 7. Adeyanju, S. (2021). An Analysis of Students’ Perception of University Sustainability Programs and Image. Preprints, 202107057 PDF.
