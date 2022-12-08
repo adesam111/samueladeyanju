@@ -5,7 +5,7 @@ title: Welcome to my page
 ![Samuel](images/samuel.jpg)
 
 <div align="center"> 
-  <font color="red">
+  <font color="#229954">
  <h1>Samuel Adeyanju</h1>
     </font>
   </div>
