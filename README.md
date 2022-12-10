@@ -1,4 +1,4 @@
-# samueladeyanju
+# Samuel Adeyanju
 This is my academic website
 
 
