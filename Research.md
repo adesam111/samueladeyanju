@@ -11,3 +11,5 @@ title: Research
 
 # Past Research
     ## Sacred groves and Biodiversity Conservation in Nigeria
+    
+    This was my Masters degree research. Please, find below the abstract of the published work that resulted from my <a href="https://dx.doi.org/10.14288/1.0389686">thesis</a>.
