@@ -7,4 +7,6 @@ author_profile: TRUE
 <embed src="https://adesam111.github.io/samueladeyanju/images/SamuelAdeyanjuCV.pdf" 
        type="application/pdf" />
 
+ <embed src="https://adesam111.github.io/samueladeyanju/images/SamuelAdeyanjuCV.pdf" width="600px" height="500px" />
+ 
 [Download my CV]({{ site.url}}/images/SamuelAdeyanjuCV.pdf)
