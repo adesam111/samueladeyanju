@@ -1,5 +1,5 @@
 ---
-title: About Me
+title: About
 ---
 
 ![Samuel](images/samuel4.jpeg)
