@@ -1,7 +1,8 @@
 ---
 title: Publications
 ---                     
-  
+For the latest and more complete set of publications, please see my <a href="https://scholar.google.com/citations?user=DJ1LbLUAAAAJ&hl=en&inst=17001591832933267808=" target="blank"> **Google Scholar**</a>
+
 # Peer-Reviewed Journals, Book chapters & Conference Paper
 
 
