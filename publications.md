@@ -5,7 +5,7 @@ title: Publications
 ![Samuel](images/presentation1.png)
 
 # In the News
-1. Interview on the **InCommon Podcast**, 6 September, 2022: <a href="https://www.incommonpodcast.org/podcast/ijc7-sacred-groves-or-commons-with-a-difference-with-samuel-adeyanju/=" target="_blank">Sacred Groves (Or Commons with A Difference)</a>. Listen on Apple Podcasts <a href="https://podcasts.apple.com/nz/podcast/ijc-7-sacred-groves-or-commons-with-a-difference/id1462181036?i=1000578560502=" target="_blank">here</a> and YouTube <a href="https://www.youtube.com/watch?v=CjfrIujwqzs&t=59s=" target="_blank">here</a>
+1. Interview on **InCommon Podcast**, 6 September, 2022: <a href="https://www.incommonpodcast.org/podcast/ijc7-sacred-groves-or-commons-with-a-difference-with-samuel-adeyanju/=" target="_blank">Sacred Groves (Or Commons with A Difference)</a>. Listen on Apple Podcasts <a href="https://podcasts.apple.com/nz/podcast/ijc-7-sacred-groves-or-commons-with-a-difference/id1462181036?i=1000578560502=" target="_blank">here</a> and YouTube <a href="https://www.youtube.com/watch?v=CjfrIujwqzs&t=59s=" target="_blank">here</a>
 2. Covered and quoted by **Landscape News**, 7 April, 2022: <a href="https://news.globallandscapesforum.org/56714/how-sacred-groves-protect-deities-culture-and-biodiversity/=" target="_blank">How sacred groves protect deities, culture and biodiversity</a>.
 3. Profile feature and interview by **Forbes**, 25 December, 2021: <a href="https://www.forbes.com/sites/andrewwight/2021/12/25/this-nigerian-studies-how-to-save-sacred-forests-and-their-monkeys/?sh=6967be3839c7=" target="_blank">This Nigerian Studies How to Save Sacred Forests and Their Monkeys</a>.
 
