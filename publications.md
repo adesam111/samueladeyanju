@@ -35,3 +35,6 @@ For the latest and more complete set of publications, please see my <a href="htt
 11. Adeyanju, S. (2017c). My first day at COP 23. Africa Climate Reports. Link.
   
 12. Adeyanju, S. (2017d). COP23: Al Gore speaks on climate change realities across the globe. Africa Climate Reports. Link.
+
+# In the News
+Covered and quoted by Landscape News: <a href="https://news.globallandscapesforum.org/56714/how-sacred-groves-protect-deities-culture-and-biodiversity/=" target="_blank">How sacred groves protect deities, culture and biodiversity.</a>
