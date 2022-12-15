@@ -30,7 +30,9 @@ available for such interventions more effectively and to reduce poverty in Ghana
 
 # Past Research
 <h3> Sacred groves and Biodiversity Conservation in Nigeria </h3> 
-    
+  
+  ![Samuel](images/monkey.jpg) 
+   
 This was my Masters degree research. Please, find below the abstract of the published work that resulted from my  <a href="https://dx.doi.org/10.14288/1.0389686" target="blank"> **Thesis**</a>.
 
 <blockquote> 
