@@ -6,6 +6,8 @@ title: Research
 <h1> Current Research </h1>
 <h3> Towards poverty reduction in Northern Ghana: Livelihood interventions and community based natural resources management </h3>
     
+   ![Samuel](images/ghana.jpg)
+      
 This is my doctoral research. Please, find below the abstract of the ongoing work
  
  <blockquote> 
