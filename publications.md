@@ -1,5 +1,5 @@
 ---
-title: News & Publications
+title: Publications
 ---                     
 
 ![Samuel](images/presentation1.png)
