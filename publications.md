@@ -10,7 +10,7 @@ title: Publications
 3. Profile feature and interview by **Forbes**, 25 December, 2021: <a href="https://www.forbes.com/sites/andrewwight/2021/12/25/this-nigerian-studies-how-to-save-sacred-forests-and-their-monkeys/?sh=6967be3839c7=" target="_blank">This Nigerian Studies How to Save Sacred Forests and Their Monkeys</a>.
 
 
-<h6> For the latest and more complete set of publications, please see my <a href="https://scholar.google.com/citations?user=DJ1LbLUAAAAJ&hl=en&inst=17001591832933267808=" target="blank"> **Google Scholar**</a> </h6>
+<h5> For the latest and more complete set of publications, please see my <a href="https://scholar.google.com/citations?user=DJ1LbLUAAAAJ&hl=en&inst=17001591832933267808=" target="blank"> Google Scholar</a> </h5>
 
 # Peer-Reviewed Journals, Book chapters & Conference Paper
 
