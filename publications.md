@@ -18,7 +18,7 @@ title: Publications
 1. Adeyanju, S., Bulkan, J., Onyekwelu J. C., Peterson St-Laurent, G., Kozak, R., Sunderland, T., Stimm, B. (2022). Drivers of biodiversity conservation in sacred groves: A comparative study of three sacred groves in South-west Nigeria. International Journal of the Commons, 16(1), 94–107. DOI: <a href="http://doi.org/10.5334/ijc.1143=" target="blank">http://doi.org/10.5334/ijc.1143</a>
 
 
-2. Adeyanju, S., Adesuyi, O., Offiah, C., Fasalejo, O., Ogunlade, B. (2022). Where are the foresters? The influx of forestry graduates to non-forestry jobs in Nigeria. XV World Forest Congress, 2022. Seoul, Korea. <a href="https://www.researchgate.net/publication/360194133_Where_are_the_foresters_The_influx_of_forestry_graduates_to_non-forestry_jobs_in_Nigeria=" target="blank">PDF</a>.
+2. Adeyanju, S., Adesuyi, O., Offiah, C., Fasalejo, O., Ogunlade, B. (2022). Where are the foresters? The influx of forestry graduates to non-forestry jobs in Nigeria. XV World Forestry Congress, 2022. Seoul, Korea. <a href="https://www.researchgate.net/publication/360194133_Where_are_the_foresters_The_influx_of_forestry_graduates_to_non-forestry_jobs_in_Nigeria=" target="blank">PDF</a>.
 
   3. Adeyanju, S., Ajilore, O., Ogunlalu, O., Onatunji, A., & Mogaji, E. (2022). Innovating in the Face of the COVID-19 Pandemic: Case Studies from Nigerian Universities. In: Chan, R., Glass, C., Bista, K. (eds) Coronavirus (COVID-19) and Global Higher Education: Opportunities and Challenges. STAR Scholar Book Series, 104-120. <a href="https://ojed.org/index.php/gsm/article/view/2823/1567=" target="blank">PDF</a>.
   
