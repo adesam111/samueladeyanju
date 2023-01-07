@@ -8,7 +8,7 @@ title: Research
     
    ![Samuel](images/ghana.jpg)
       
-This is my doctoral research. Please, find below the abstract of the ongoing work
+This is my doctoral research. Please, find below the abstract of the ongoing work.
  
  <blockquote> 
     More than two million Ghanaians depend solely on forest resources for their livelihoods, food security and nutrition,
