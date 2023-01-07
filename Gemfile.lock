@@ -35,6 +35,7 @@ GEM
       jekyll
     jekyll-sass-converter (3.0.0)
       sass-embedded (~> 1.54)
+    jekyll-twitter-plugin (2.1.0)
     jekyll-watch (2.2.1)
       listen (~> 3.0)
     kramdown (2.4.0)
@@ -67,6 +68,7 @@ PLATFORMS
 
 DEPENDENCIES
   jekyll-pdf-embed
+  jekyll-twitter-plugin
 
 BUNDLED WITH
    2.3.26
