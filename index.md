@@ -24,3 +24,5 @@ title: Welcome to my page
 
 
 {% twitter https://twitter.com/yanjus4christ maxwidth=500 limit=5 %}
+
+<a class="twitter-timeline" href="https://twitter.com/yanjus4christ?ref_src=twsrc%5Etfw">Tweets by yanjus4christ</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
