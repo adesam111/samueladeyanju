@@ -4,8 +4,8 @@ sitemap: false
 permalink: /Curriculum/
 author_profile: TRUE
 ---
-<a href="http://samueladeyanju.com/images/SamuelAdeyanjuCV.pdf=" target="_blank">Download</a>
-<div align="right"> 
+<a href="https://samueladeyanju.com/images/SamuelAdeyanjuCV.pdf=" target="_blank">Download</a>
+<div align="center"> 
 <embed src="https://samueladeyanju.com/images/SamuelAdeyanjuCV.pdf" 
        type="application/pdf"
        width="850"
