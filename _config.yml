@@ -13,3 +13,4 @@ linkedin_username: samueladeyanju
 email: samuel.adeyanju@ubc.ca
 
 
+plugins: ['jekyll-twitter-plugin']
