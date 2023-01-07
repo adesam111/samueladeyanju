@@ -1,7 +1,5 @@
 theme: minima 
 
-plugins:
-  - jekyll-pdf-embed
 
 header_pages:
   - about.md
