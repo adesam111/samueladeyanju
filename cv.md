@@ -5,7 +5,7 @@ permalink: /Curriculum/
 author_profile: TRUE
 ---
 <a href="https://drive.google.com/file/d/1uqjdCXKV8HIjW15hvdoxWfhr7aoS3h-y/view?pli=1" target="_blank">Download</a>
-<div align="center"> 
+       <div align="right"/> 
 <embed src="https://samueladeyanju.com/images/SamuelAdeyanjuCV.pdf" 
        type="application/pdf"
        width="850"
