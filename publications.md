@@ -5,8 +5,8 @@ title: Publications
 ![Samuel](images/presentation1.png)
 
 # In the News
-1. Interview on **InCommon Podcast**, 6 September, 2022: <a href="https://www.incommonpodcast.org/podcast/ijc7-sacred-groves-or-commons-with-a-difference-with-samuel-adeyanju/=" target="_blank">Sacred Groves (Or Commons with A Difference)</a>. Listen on Apple Podcasts <a href="https://podcasts.apple.com/nz/podcast/ijc-7-sacred-groves-or-commons-with-a-difference/id1462181036?i=1000578560502=" target="_blank">here</a> and YouTube <a href="https://www.youtube.com/watch?v=CjfrIujwqzs&t=59s=" target="_blank">here</a>
-2. Covered and quoted by **Landscape News**, 7 April, 2022: <a href="https://news.globallandscapesforum.org/56714/how-sacred-groves-protect-deities-culture-and-biodiversity/=" target="_blank">How sacred groves protect deities, culture and biodiversity</a>.
+1. Interview on **InCommon Podcast**, 6 September, 2022: <a href="https://www.incommonpodcast.org/podcast/ijc7-sacred-groves-or-commons-with-a-difference-with-samuel-adeyanju/" target="_blank">Sacred Groves (Or Commons with A Difference)</a>. Listen on Apple Podcasts <a href="https://podcasts.apple.com/nz/podcast/ijc-7-sacred-groves-or-commons-with-a-difference/id1462181036?i=1000578560502=" target="_blank">here</a> and YouTube <a href="https://www.youtube.com/watch?v=CjfrIujwqzs&t=59s=" target="_blank">here</a>
+2. Covered and quoted by **Landscape News**, 7 April, 2022: <a href="https://thinklandscape.globallandscapesforum.org/56714/how-sacred-groves-protect-deities-culture-and-biodiversity/" target="_blank">How sacred groves protect deities, culture and biodiversity</a>.
 3. Profile feature and interview by **Forbes**, 25 December, 2021: <a href="https://www.forbes.com/sites/andrewwight/2021/12/25/this-nigerian-studies-how-to-save-sacred-forests-and-their-monkeys/?sh=6967be3839c7=" target="_blank">This Nigerian Studies How to Save Sacred Forests and Their Monkeys</a>.
 
 
@@ -15,12 +15,12 @@ title: Publications
 # Peer-Reviewed Journals, Book chapters & Conference Paper
 
 
-1. Reed, J., Ros-Tonen, M.A., Adeyanju, S., Arimiyaw, A.W., Asubonteng, K., Baatuwie, B.N., Bayala, E.R., Tom-Dery, D., Ickowitz, A., Issaka, Y.B., Moombe, K.B., Mumuni, J., Wakesho, G., Zida, M. & Sunderland, T. (2024). From conflict to collaboration through inclusive landscape governance: Evidence from a contested landscape in Ghana. Global Environmental Change, 88, 102909.  <a href="https://doi.org/10.1016/j.gloenvcha.2024.102909" target="blank">Link</a>
+1. Reed, J., Ros-Tonen, M.A., Adeyanju, S., Arimiyaw, A.W., Asubonteng, K., Baatuwie, B.N., Bayala, E.R., Tom-Dery, D., Ickowitz, A., Issaka, Y.B., Moombe, K.B., Mumuni, J., Wakesho, G., Zida, M. & Sunderland, T. (2024). From conflict to collaboration through inclusive landscape governance: Evidence from a contested landscape in Ghana. *Global Environmental Change*, 88, 102909.  <a href="https://doi.org/10.1016/j.gloenvcha.2024.102909" target="blank">Link</a>.
    
-3. Adeyanju, S., Bulkan, J., Onyekwelu J. C., Peterson St-Laurent, G., Kozak, R., Sunderland, T., Stimm, B. (2022). Drivers of biodiversity conservation in sacred groves: A comparative study of three sacred groves in South-west Nigeria. International Journal of the Commons, 16(1), 94–107. <a href="http://doi.org/10.5334/ijc.1143" target="blank">Link</a>
+3. Adeyanju, S., Bulkan, J., Onyekwelu J. C., Peterson St-Laurent, G., Kozak, R., Sunderland, T., Stimm, B. (2022). Drivers of biodiversity conservation in sacred groves: A comparative study of three sacred groves in South-west Nigeria. *International Journal of the Commons*, 16(1), 94–107. <a href="http://doi.org/10.5334/ijc.1143" target="blank">Link</a>.
 
 
-4. Adeyanju, S., Adesuyi, O., Offiah, C., Fasalejo, O., Ogunlade, B. (2022). Where are the foresters? The influx of forestry graduates to non-forestry jobs in Nigeria. XV World Forestry Congress, 2022. Seoul, Korea. <a href="https://www.researchgate.net/publication/360194133_Where_are_the_foresters_The_influx_of_forestry_graduates_to_non-forestry_jobs_in_Nigeria=" target="blank">PDF</a>.
+4. Adeyanju, S., Adesuyi, O., Offiah, C., Fasalejo, O., Ogunlade, B. (2022). Where are the foresters? The influx of forestry graduates to non-forestry jobs in Nigeria. *XV World Forestry Congress*, 2022. Seoul, Korea. <a href="https://www.researchgate.net/publication/360194133_Where_are_the_foresters_The_influx_of_forestry_graduates_to_non-forestry_jobs_in_Nigeria=" target="blank">PDF</a>.
 
   5. Adeyanju, S., Ajilore, O., Ogunlalu, O., Onatunji, A., & Mogaji, E. (2022). Innovating in the Face of the COVID-19 Pandemic: Case Studies from Nigerian Universities. In: Chan, R., Glass, C., Bista, K. (eds) Coronavirus (COVID-19) and Global Higher Education: Opportunities and Challenges. STAR Scholar Book Series, 104-120. <a href="https://ojed.org/index.php/gsm/article/view/2823/1567=" target="blank">PDF</a>.
   
