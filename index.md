@@ -12,7 +12,7 @@ title: Welcome to my page
 
 <div align="center"> 
   <font color="#27AE60">
- <h2>PhD Candidate, University of British Columbia, Canada</h2> 
+ <h2>PhD Candidate and SSHRC Vanier Scholar at the University of British Columbia, Canada</h2> 
   
   </font>
 
