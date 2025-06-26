@@ -12,11 +12,15 @@ title: Welcome to my page
 
 <div align="center"> 
   <font color="#27AE60">
- <h2>PhD Candidate and SSHRC Vanier Scholar
-   University of British Columbia, Canada</h2> 
+ <h2>PhD Candidate and SSHRC Vanier Scholar</h2> 
   
   </font>
 
+<div align="center"> 
+  <font color="#27AE60">
+ <h2>   University of British Columbia, Canada</h2> 
+  
+  </font>
 
 <font color="#52BE80">
 <h3>I am a social scientist studying the social, economic, and institutional dynamics of natural resource management in West Africa.</h3>
