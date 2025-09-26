@@ -18,7 +18,7 @@ title: Publications
 
 <h4> For the latest and more complete set of publications, please see my <a href="https://scholar.google.com/citations?user=DJ1LbLUAAAAJ&hl=en&inst=17001591832933267808=" target="blank"> Google Scholar</a> </h4>
 
-# Peer-Reviewed Journals, Book chapters & Conference Papers
+# Peer-Reviewed Journals, Book Chapters & Conference Papers
 
 
 1. Reed, J., Ros-Tonen, M.A., Adeyanju, S., Arimiyaw, A.W., Asubonteng, K., Baatuwie, B.N., Bayala, E.R., Tom-Dery, D., Ickowitz, A., Issaka, Y.B., Moombe, K.B., Mumuni, J., Wakesho, G., Zida, M. & Sunderland, T. (2024). From conflict to collaboration through inclusive landscape governance: Evidence from a contested landscape in Ghana. *Global Environmental Change*, 88, 102909.  <a href="https://doi.org/10.1016/j.gloenvcha.2024.102909" target="blank">Link</a>.
