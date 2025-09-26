@@ -5,15 +5,16 @@ title: Publications
 ![Samuel](images/presentation1.png)
 
 # In the News
-1. Interview on **InCommon Podcast**, 6 September, 2022: <a href="https://www.incommonpodcast.org/podcast/ijc7-sacred-groves-or-commons-with-a-difference-with-samuel-adeyanju/" target="_blank">Sacred Groves (Or Commons with A Difference)</a>. Listen on Apple Podcasts <a href="https://podcasts.apple.com/nz/podcast/ijc-7-sacred-groves-or-commons-with-a-difference/id1462181036?i=1000578560502=" target="_blank">here</a> and YouTube <a href="https://www.youtube.com/watch?v=CjfrIujwqzs&t=59s=" target="_blank">here</a>
-2. Covered and quoted by **Landscape News**, 7 April, 2022: <a href="https://thinklandscape.globallandscapesforum.org/56714/how-sacred-groves-protect-deities-culture-and-biodiversity/" target="_blank">How sacred groves protect deities, culture and biodiversity</a>.
-3. Profile feature and interview by **Forbes**, 25 December, 2021: <a href="https://www.forbes.com/sites/andrewwight/2021/12/25/this-nigerian-studies-how-to-save-sacred-forests-and-their-monkeys/?sh=6967be3839c7=" target="_blank">This Nigerian Studies How to Save Sacred Forests and Their Monkeys</a>.
+1. Interview on **InCommon Podcast**, 6 September 2022: <a href="https://www.incommonpodcast.org/podcast/ijc7-sacred-groves-or-commons-with-a-difference-with-samuel-adeyanju/" target="_blank">Sacred Groves (Or Commons with A Difference)</a>. Listen on Apple Podcasts <a href="https://podcasts.apple.com/nz/podcast/ijc-7-sacred-groves-or-commons-with-a-difference/id1462181036?i=1000578560502" target="_blank">here</a>
+2. Covered and quoted by **Landscape News**, 7 April 2022: <a href="https://thinklandscape.globallandscapesforum.org/56714/how-sacred-groves-protect-deities-culture-and-biodiversity/" target="_blank">How sacred groves protect deities, culture and biodiversity</a>.
+3. Profile feature and interview by **Forbes**, 25 December 2021: <a href="https://www.forbes.com/sites/andrewwight/2021/12/25/this-nigerian-studies-how-to-save-sacred-forests-and-their-monkeys/?sh=6967be3839c7=" target="_blank">This Nigerian Studies How to Save Sacred Forests and Their Monkeys</a>.
 
 # Work in Progress
-1. " Impact of Multistakeholder-Led Shea Value Chain Development on Women’s Capital Assets in Ghana’s Community Resource Management Areas (CREMAs). Led by Samuel Adeyanju (PhD chapter). In preparation for submission to *Environmental Management*
-2. "Evaluating livelihood interventions in a CBNRM program: insights from Community Resource Management Areas (CREMAs) in northern Ghana. Led by Samuel Adeyanju (PhD chapter). Under review in *Current Research in Environmental Sustainability*.
-3. "A Vision for African-led Conservation Research. Led by Nomsa Nkomo and Dr. Timothy Kuiper. Under review in *Nature*.
-4. "Integrated landscape approaches: A pathway towards just sustainable development?" Led by Dr. Miriam Ros-Tonen. Under review in *Progress in Development Studies*.
+1. "Impact of Multistakeholder-Led Shea Value Chain Development on Women’s Capital Assets in Ghana’s Community Resource Management Areas (CREMAs)." Led by Samuel Adeyanju (PhD chapter). In preparation for submission to *Environmental Management*
+2. "Inclusive or Illusive? Gendered Realities in Community-Based Conservation Governance in Northern Ghana." Led by Cornelius Pienaah (Western University, CA). Submitted to *Local Environment*
+3. "Evaluating livelihood interventions in a CBNRM program: insights from Community Resource Management Areas (CREMAs) in northern Ghana." Led by Samuel Adeyanju (PhD chapter). Under review in *Current Research in Environmental Sustainability*.
+4. "A Vision for African-led Conservation Research." Led by Nomsa Nkomo (University of Cape Town, ZA) and Dr. Timothy Kuiper (Nelson Mandela University, ZA). Under review in *Nature*.
+5. "Integrated landscape approaches: A pathway towards just sustainable development?" Led by Dr. Miriam Ros-Tonen (University of Amsterdam, NL). Under review in *Progress in Development Studies*.
 
 <h4> For the latest and more complete set of publications, please see my <a href="https://scholar.google.com/citations?user=DJ1LbLUAAAAJ&hl=en&inst=17001591832933267808=" target="blank"> Google Scholar</a> </h4>
 
@@ -27,11 +28,11 @@ title: Publications
 
 4. Adeyanju, S., Adesuyi, O., Offiah, C., Fasalejo, O., Ogunlade, B. (2022). Where are the foresters? The influx of forestry graduates to non-forestry jobs in Nigeria. *XV World Forestry Congress*, 2022. Seoul, Korea. <a href="https://www.researchgate.net/publication/360194133_Where_are_the_foresters_The_influx_of_forestry_graduates_to_non-forestry_jobs_in_Nigeria=" target="blank">PDF</a>.
 
-  5. Adeyanju, S., Ajilore, O., Ogunlalu, O., Onatunji, A., & Mogaji, E. (2022). Innovating in the Face of the COVID-19 Pandemic: Case Studies from Nigerian Universities. In: Chan, R., Glass, C., Bista, K. (eds) Coronavirus (COVID-19) and Global Higher Education: Opportunities and Challenges. STAR Scholar Book Series, 104-120. <a href="https://ojed.org/index.php/gsm/article/view/2823/1567=" target="blank">PDF</a>.
+  5. Adeyanju, S., Ajilore, O., Ogunlalu, O., Onatunji, A., & Mogaji, E. (2022). Innovating in the Face of the COVID-19 Pandemic: Case Studies from Nigerian Universities. In: Chan, R., Glass, C., Bista, K. (eds) Coronavirus (COVID-19) and Global Higher Education: Opportunities and Challenges. STAR Scholar Book Series, 104-120. <a href="https://ojed.org/cies/article/view/2823/1567" target="blank">PDF</a>.
   
-6. Adeyanju, S., O'connor, A., Addoah, T., Bayala, E., Djoudi, H., Moombe, K., Reed, J., Ros-Tonen, M., Siangulube, F., Sikanwe, A. and Sunderland, T., (2021). Learning from Community-Based Natural Resource Management (CBNRM) in Ghana and Zambia: lessons for integrated landscape approaches. *International Forestry Review*, 23(3): 273-297. <a href="https://www.ingentaconnect.com/contentone/cfa/ifr/pre-prints/content-ifr213a?crawler=true&mimetype=application/pdf=" target="blank">PDF</a>.
+6. Adeyanju, S., O'connor, A., Addoah, T., Bayala, E., Djoudi, H., Moombe, K., Reed, J., Ros-Tonen, M., Siangulube, F., Sikanwe, A. and Sunderland, T., (2021). Learning from Community-Based Natural Resource Management (CBNRM) in Ghana and Zambia: lessons for integrated landscape approaches. *International Forestry Review*, 23(3): 273-297. <a href="https://www.ingentaconnect.com/contentone/cfa/ifr/2021/00000023/00000003/art00002?" target="blank">PDF</a>.
   
-7. Adeyanju S., Mogaji E., Olusola J., Oyinlola M. (2020). Factors Influencing Students’ Choice of a Federal University: A Case Study of a Nigerian Federal University. In: Mogaji E., Maringe F., Ebo Hinson R. (eds) Higher Education Marketing in Africa. (pp 135-163). Palgrave Macmillan, Cham. <a href="https://www.researchgate.net/publication/336967885_Factors_Influencing_Students'_Choice_of_a_Federal_University_A_Case_Study_of_a_Nigerian_Federal_University=" target="blank">Link</a>.
+7. Adeyanju S., Mogaji E., Olusola J., Oyinlola M. (2020). Factors Influencing Students’ Choice of a Federal University: A Case Study of a Nigerian Federal University. In: Mogaji E., Maringe F., Ebo Hinson R. (eds) Higher Education Marketing in Africa. (pp 135-163). Palgrave Macmillan, Cham. <a href="https://link.springer.com/chapter/10.1007/978-3-030-39379-3_6" target="blank">Link</a>.
   
 # Research-Based Op-Eds
   
