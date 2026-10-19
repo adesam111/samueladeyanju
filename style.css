@@ -139,6 +139,9 @@ nav a[aria-current="page"] { color: var(--accent); }
 .ph img { position: relative; z-index: 1; width: 100%; height: 100%; object-fit: cover; display: block; }
 .portrait.ph { aspect-ratio: 1; width: 132px; height: 132px; border-radius: 50%; }
 .portrait.ph::before { font-family: var(--display); font-size: 2.4rem; font-weight: 600; color: var(--accent); background: var(--accent-soft); }
+.captioned { margin: 0; display: flex; flex-direction: column; gap: 8px; }
+.captioned figcaption { font-size: .85rem; color: var(--muted); }
+.ph.tall { aspect-ratio: 4 / 3; }
 .gallery { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 12px; }
 .gallery .ph { aspect-ratio: 4 / 3; }
 .teaser { border: 1px solid var(--line); border-radius: 10px; padding: 18px 20px; display: flex; flex-direction: column; gap: 8px; }
