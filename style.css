@@ -144,6 +144,8 @@ nav a[aria-current="page"] { color: var(--accent); }
 .talks { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 14px 12px; }
 .tile { margin: 0; display: flex; flex-direction: column; gap: 6px; min-width: 0; }
 .tile a { display: block; border-radius: 10px; }
+.tile.wide { grid-column: 1 / -1; }
+.tile.wide .ph { aspect-ratio: 16 / 9; }
 .tile .ph { aspect-ratio: 4 / 3; transition: transform .2s ease; }
 @media (hover: hover) and (prefers-reduced-motion: no-preference) { .tile a:hover .ph { transform: scale(1.015); } }
 .tile figcaption { display: flex; flex-direction: column; gap: 1px; font-size: .8rem; line-height: 1.4; color: var(--muted); }
