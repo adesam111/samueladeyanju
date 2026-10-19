@@ -142,6 +142,19 @@ nav a[aria-current="page"] { color: var(--accent); }
 .captioned { margin: 0; display: flex; flex-direction: column; gap: 8px; }
 .captioned figcaption { font-size: .85rem; color: var(--muted); }
 .ph.tall { aspect-ratio: 4 / 3; }
+nav.jump { display: flex; flex-direction: row; flex-wrap: wrap; gap: 8px; width: auto; padding: 0; }
+nav.jump a { border-top: 1px solid var(--line); text-decoration: none; font-size: .88rem; font-weight: 600; padding: 7px 14px; border: 1px solid var(--line); border-radius: 999px; color: var(--fg); background: var(--surface); }
+nav.jump a:hover { border-color: var(--accent); color: var(--accent); }
+.stage { scroll-margin-top: 84px; gap: 14px; }
+.project.stage + .project.stage { border-top: 2px solid var(--line); padding-top: 40px; margin-top: 18px; }
+.stage-head { display: flex; flex-wrap: wrap; align-items: center; gap: 6px 12px; }
+.stage-tag { font-size: .74rem; font-weight: 600; letter-spacing: .1em; text-transform: uppercase; padding: 5px 12px; border-radius: 999px; }
+.stage-postdoc .stage-tag { background: var(--accent); color: var(--bg); }
+.stage-phd .stage-tag { background: var(--ochre); color: var(--bg); }
+.stage-msc .stage-tag { background: var(--surface); color: var(--fg); border: 1px solid var(--line); }
+.stage-when { font-size: .85rem; color: var(--muted); }
+.stage > h3 { font-size: clamp(1.45rem, 4.5vw, 1.8rem); }
+
 .honors { margin: -8px 0 0; font-size: .82rem; font-weight: 600; letter-spacing: .08em; text-transform: uppercase; color: var(--ochre); text-wrap: balance; }
 .honors span { margin: 0 .35em; opacity: .6; }
 .ph.port { aspect-ratio: 3 / 4; }
