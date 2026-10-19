@@ -40,9 +40,8 @@ main { padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: m
 .hero { text-align: center; padding-block: 56px 48px; display: flex; flex-direction: column; align-items: center; gap: 20px; }
 .portrait { width: 112px; height: 112px; border-radius: 50%; background: var(--accent-soft); color: var(--accent); display: grid; place-items: center;
   font-family: var(--display); font-size: 2.4rem; font-weight: 600; border: 1px solid var(--line); }
-.badge { display: inline-flex; align-items: center; gap: 8px; padding: 6px 14px; border-radius: 999px; background: var(--accent-soft); color: var(--accent);
+.badge { display: inline-block; text-align: center; text-wrap: balance; padding: 6px 14px; border-radius: 999px; background: var(--accent-soft); color: var(--accent);
   font-size: .75rem; font-weight: 600; letter-spacing: .09em; text-transform: uppercase; }
-.badge::before { content: ""; width: 7px; height: 7px; border-radius: 50%; background: currentColor; }
 h1 { font-family: var(--display); font-weight: 600; font-size: clamp(2.5rem, 8vw, 3.75rem); line-height: 1.05; margin: 0; letter-spacing: -.01em; }
 .thesis { font-family: var(--display); font-weight: 500; font-size: clamp(1.2rem, 3.4vw, 1.5rem); line-height: 1.4; color: var(--fg); margin: 0; max-width: 32ch; text-wrap: balance; }
 .bio { color: var(--muted); margin: 0; max-width: 62ch; }
