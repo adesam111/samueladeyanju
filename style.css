@@ -141,6 +141,18 @@ nav a[aria-current="page"] { color: var(--accent); }
 .captioned { margin: 0; display: flex; flex-direction: column; gap: 8px; }
 .captioned figcaption { font-size: .85rem; color: var(--muted); }
 .ph.tall { aspect-ratio: 4 / 3; }
+.talks { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 14px 12px; }
+.tile { margin: 0; display: flex; flex-direction: column; gap: 6px; min-width: 0; }
+.tile a { display: block; border-radius: 10px; }
+.tile .ph { aspect-ratio: 4 / 3; transition: transform .2s ease; }
+@media (hover: hover) and (prefers-reduced-motion: no-preference) { .tile a:hover .ph { transform: scale(1.015); } }
+.tile figcaption { display: flex; flex-direction: column; gap: 1px; font-size: .8rem; line-height: 1.4; color: var(--muted); }
+.tile figcaption b { color: var(--fg); font-weight: 600; font-size: .85rem; }
+.policy { display: grid; grid-template-columns: minmax(0, 220px) minmax(0, 1fr); gap: 16px; align-items: start; }
+@media (max-width: 520px) { .policy { grid-template-columns: 1fr; } .policy .tile { max-width: 280px; } }
+.two-col { display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 8px 28px; }
+.two-col > div { display: flex; flex-direction: column; gap: 10px; min-width: 0; }
+
 .captioned.shot { max-width: 560px; }
 nav.jump { display: flex; flex-direction: row; flex-wrap: wrap; gap: 8px; width: auto; padding: 0; }
 nav.jump a { border-top: 1px solid var(--line); text-decoration: none; font-size: .88rem; font-weight: 600; padding: 7px 14px; border: 1px solid var(--line); border-radius: 999px; color: var(--fg); background: var(--surface); }
