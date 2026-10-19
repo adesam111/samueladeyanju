@@ -155,8 +155,12 @@ nav.jump a:hover { border-color: var(--accent); color: var(--accent); }
 .stage-when { font-size: .85rem; color: var(--muted); }
 .stage > h3 { font-size: clamp(1.45rem, 4.5vw, 1.8rem); }
 
-.honors { margin: -8px 0 0; font-size: .82rem; font-weight: 600; letter-spacing: .08em; text-transform: uppercase; color: var(--ochre); text-wrap: balance; }
-.honors span { margin: 0 .35em; opacity: .6; }
+.honors { list-style: none; margin: -8px 0 0; padding: 0; display: flex; flex-wrap: wrap; justify-content: center; gap: 4px 0; font-size: .82rem; font-weight: 600; letter-spacing: .08em; text-transform: uppercase; color: var(--ochre); }
+.honors li { white-space: nowrap; }
+.honors li + li::before { content: "\00B7"; margin: 0 .6em; opacity: .6; }
+@media (max-width: 520px) { .honors { flex-direction: column; align-items: center; gap: 2px; } .honors li + li::before { content: none; } }
+.badge .b-line { white-space: nowrap; }
+@media (max-width: 520px) { .badge { border-radius: 14px; padding: 8px 18px; } .badge .b-line { display: block; } .badge .b-sep { display: none; } }
 .ph.port { aspect-ratio: 3 / 4; }
 .pair { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 12px; }
 .pair figcaption { font-size: .8rem; }
