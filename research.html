@@ -1,0 +1,85 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Research · Samuel Adeyanju</title>
+<meta name="description" content="Samuel Adeyanju, PhD: postdoctoral researcher at McGill University studying conservation, rural livelihoods, and natural climate solutions in West Africa.">
+<meta property="og:title" content="Research · Samuel Adeyanju">
+<meta property="og:description" content="Samuel Adeyanju, PhD: postdoctoral researcher at McGill University studying conservation, rural livelihoods, and natural climate solutions in West Africa.">
+<meta property="og:image" content="https://samueladeyanju.com/images/samuel.jpg">
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Newsreader:opsz,wght@6..72,500;6..72,600&family=Public+Sans:wght@400;500;600&display=swap">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="bar">
+  <div class="bar-inner">
+    <a class="brand" href="index.html"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 22V9"/><path d="M12 9c-4 0-7-2.5-7-6 4 0 7 2.5 7 6Z"/><path d="M12 13c3.5 0 6-2 6-5-3.5 0-6 2-6 5Z"/><path d="M8 22h8"/></svg>Samuel Adeyanju</a>
+    <button class="menu-btn" type="button" id="menu-btn" aria-expanded="false" aria-controls="site-nav" aria-label="Menu"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M4 7h16M4 12h16M4 17h16"/></svg></button>
+    <nav id="site-nav" aria-label="Pages">
+      <a href="about.html">About</a>
+      <a href="research.html" aria-current="page">Research</a>
+      <a href="teaching.html">Teaching</a>
+      <a href="publications.html">Publications</a>
+      <a href="index.html#contact">Contact</a>
+    </nav>
+  </div>
+</header>
+
+<main id="top">
+  <div class="wrap">
+    <div class="page-head">
+      <p class="eyebrow">Samuel Adeyanju</p>
+      <h1>Research</h1>
+      <p>From community forests to carbon markets: how conservation and climate programs affect the people they are meant to benefit.</p>
+    </div>
+
+    <section id="research">
+
+      <div class="project">
+        <p class="meta">Current · Postdoctoral research, McGill University</p>
+        <h3>Do carbon market social safeguards hold up in practice?</h3>
+        <p>Voluntary carbon projects commit to protecting and benefiting local communities, but those commitments are rarely tested against what happens on the ground. This project compares what forest carbon projects in West Africa promise in their registry documents with what independent audits find. It asks where safeguards are delivered, where they fall short, and what that means for communities and for the buyers who rely on these credits.</p>
+      </div>
+
+      <div class="project">
+        <figure class="ph" data-label="Samuel conducting fieldwork in a northern Ghana community"><img src="images/web/ghana.jpg" alt="Samuel conducting fieldwork in a northern Ghana community" loading="lazy" style="object-position:center"></figure>
+        <p class="meta">PhD, University of British Columbia · 2021 to 2026</p>
+        <h3>People, Projects, and Poverty</h3>
+        <p>My dissertation examined the multidimensional impact of livelihood interventions in Community Resource Management Areas (CREMAs) in northern Ghana, where communities co-manage forest and wildlife resources. I led mixed-methods fieldwork across three Ghanaian regions, engaging more than 200 stakeholders, to examine how interventions work, who benefits, who is left out, and what limits their effectiveness. A central case was the shea value chain, a livelihood dominated by women.</p>
+        <p class="finding"><strong>Key finding.</strong> Investment in shea sourcing points was associated with a 15% increase in income.</p>
+      </div>
+
+      <div class="project">
+        <figure class="ph" data-label="Mona monkeys in a sacred grove in southwest Nigeria"><img src="images/web/monkey.jpg" alt="Mona monkeys in a sacred grove in southwest Nigeria" loading="lazy" style="object-position:center"></figure>
+        <p class="meta">MSc, University of British Columbia · 2017 to 2020</p>
+        <h3>Sacred groves and biodiversity conservation in Nigeria</h3>
+        <p>My master's research compared three sacred groves in southwest Nigeria with different scales of governance. It showed that lasting protection depends on cooperation between customary institutions and formal government management. The work was featured in Forbes, Landscape News, and the InCommon podcast.</p>
+      </div>
+
+    </section>
+
+  </div>
+</main>
+<footer class="site-foot"><div class="wrap">
+  <span>© 2026 Samuel Adeyanju · Postdoctoral Researcher, McGill University</span>
+  <span><a href="https://scholar.google.com/citations?user=DJ1LbLUAAAAJ" target="_blank" rel="noopener">Google Scholar</a> · <a href="https://www.linkedin.com/in/samueladeyanju" target="_blank" rel="noopener">LinkedIn</a> · samueloadeyanju@gmail.com</span>
+</div></footer>
+<script>
+(function () {
+  var b = document.getElementById("menu-btn"), n = document.getElementById("site-nav");
+  if (b && n) b.addEventListener("click", function () {
+    var open = n.classList.toggle("open"); b.setAttribute("aria-expanded", String(open));
+  });
+  document.querySelectorAll(".ph img").forEach(function (i) {
+    function drop() { i.remove(); }
+    if (i.complete && !i.naturalWidth) drop(); else i.addEventListener("error", drop);
+  });
+})();
+
+</script>
+</body>
+</html>
