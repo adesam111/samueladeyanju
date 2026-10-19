@@ -142,6 +142,8 @@ nav a[aria-current="page"] { color: var(--accent); }
 .captioned { margin: 0; display: flex; flex-direction: column; gap: 8px; }
 .captioned figcaption { font-size: .85rem; color: var(--muted); }
 .ph.tall { aspect-ratio: 4 / 3; }
+.honors { margin: -8px 0 0; font-size: .82rem; font-weight: 600; letter-spacing: .08em; text-transform: uppercase; color: var(--ochre); text-wrap: balance; }
+.honors span { margin: 0 .35em; opacity: .6; }
 .ph.port { aspect-ratio: 3 / 4; }
 .pair { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 12px; }
 .pair figcaption { font-size: .8rem; }
