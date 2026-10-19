@@ -142,6 +142,9 @@ nav a[aria-current="page"] { color: var(--accent); }
 .captioned { margin: 0; display: flex; flex-direction: column; gap: 8px; }
 .captioned figcaption { font-size: .85rem; color: var(--muted); }
 .ph.tall { aspect-ratio: 4 / 3; }
+.ph.port { aspect-ratio: 3 / 4; }
+.pair { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 12px; }
+.pair figcaption { font-size: .8rem; }
 .gallery { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 12px; }
 .gallery .ph { aspect-ratio: 4 / 3; }
 .teaser { border: 1px solid var(--line); border-radius: 10px; padding: 18px 20px; display: flex; flex-direction: column; gap: 8px; }
