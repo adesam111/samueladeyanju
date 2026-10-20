@@ -263,7 +263,10 @@ main.home { padding: 0; }
 main.home + .site-foot { border-top: 0; }
 .site-foot .wrap { max-width: 1120px; }
 @media (max-width: 900px) {
-  .h-hero-grid, .h-two, .h-contact-grid { grid-template-columns: minmax(0, 1fr); gap: 36px; }
+  .h-hero-grid { display: flex; flex-direction: column; align-items: stretch; gap: 22px; }
+  .h-intro { display: contents; }
+  .h-kicker { order: 1; } .h-name { order: 2; } .h-photo { order: 3; margin-block: 6px; } .h-statement { order: 4; } .h-sub { order: 5; } .h-actions { order: 6; }
+  .h-two, .h-contact-grid { grid-template-columns: minmax(0, 1fr); gap: 36px; }
   .h-cards { grid-template-columns: minmax(0, 1fr); gap: 36px; }
   .h-fig-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 28px 18px; }
   .h-hero { padding-block: 36px 48px; }
