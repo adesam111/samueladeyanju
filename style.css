@@ -216,9 +216,9 @@ main.home { padding: 0; }
 .h-photo { margin: 0; display: flex; flex-direction: column; gap: 10px; min-width: 0; }
 .h-photo img { width: 100%; aspect-ratio: 5 / 4; object-fit: cover; border-radius: 2px; display: block; background: var(--surface); }
 .h-photo figcaption { font-size: .8rem; color: var(--muted); }
-.h-photo.portrait { display: block; justify-self: end; width: min(100%, 440px); }
-.h-photo.portrait img { aspect-ratio: 4 / 5; }
-@media (max-width: 900px) { .h-photo.portrait { justify-self: start; width: min(100%, 360px); } }
+.h-photo.h-portrait { display: block; justify-self: end; width: min(100%, 440px); }
+.h-photo.h-portrait img { aspect-ratio: 4 / 5; }
+@media (max-width: 900px) { .h-photo.h-portrait { justify-self: start; width: min(100%, 360px); } }
 .h-band { padding-block: 64px; }
 .h-band + .h-band { border-top: 1px solid var(--line); }
 .h-head { display: flex; justify-content: space-between; align-items: flex-end; gap: 12px 24px; flex-wrap: wrap; margin-bottom: 28px; }
